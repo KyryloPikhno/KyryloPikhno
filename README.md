@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+VictorKmin/README.md
+Hey there 
+Abhishek's LinkdeINAbhishek's Instagram
+
+
+
+Hi, I'm Viktor Kmin, a Full-Stack Developer & programming teacher 🚀 from Ukraine.
+
+Languages and Tools:
+
+ JavaScript TypeScript Angular React NodeJs MongoDB MySQL Git GitHub
+
+
+myGitStats
