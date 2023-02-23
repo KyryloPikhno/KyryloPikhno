@@ -7,7 +7,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 - 🌱 I’m currently learning **NestJS**
 
-- 📫 How to reach me **Mr.Good@i.ua**
+- 📫 How to reach me **kyrylopikhno@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
