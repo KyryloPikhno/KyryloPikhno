@@ -5,7 +5,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrylopikhno&label=Profile%20views&color=0e75b6&style=flat" alt="kyrylopikhno" /> </p>
 
-- 🌱 I’m currently learning **AWS**
+<!-- - 🌱 I’m currently learning **AWS** -->
 
 - 📫 How to reach me **kyrylopikhno@gmail.com**
 
