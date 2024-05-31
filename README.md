@@ -8,9 +8,6 @@
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="30" height="30" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="25" height="25" />
 
-<br/>  
-<br/>  
-
 ##
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrylopikhno&label=Profile%20views&color=0e75b6&style=flat" alt="kyrylopikhno" /> </p>
 
