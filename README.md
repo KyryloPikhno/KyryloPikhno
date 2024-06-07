@@ -9,7 +9,12 @@
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="25" height="25" />
 
 ##
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrylopikhno&label=Profile%20views&color=0e75b6&style=flat" alt="kyrylopikhno" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrylopikhno&label=Profile%20views&color=0e75b6&style=flat" alt="kyrylopikhno" /></p>
 
+<br/>
 
-
+<p align="center">
+  <a href="https://github.com/KyryloPikhno">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KyryloPikhno&theme=radical" alt="Chirag's GitHub Contribution"/>
+  </a>
+</p>
