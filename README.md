@@ -8,9 +8,6 @@
 <!-- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="30" height="30" /> -->
 <!-- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="25" height="25" /> -->
 
-<!-- ## -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyrylopikhno&label=Profile%20views&color=0e75b6&style=flat" alt="kyrylopikhno" /></p>
-
 <!-- <br/> -->
 
 <!-- <p align="center">
@@ -18,3 +15,9 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KyryloPikhno&theme=radical" alt="Chirag's GitHub Contribution"/>
   </a>
 </p> -->
+
+<p align="left">< Full Stack Developer with 2+ years of experience in international teams. Specializing in web and mobile app development with modern technologies. A quick learner with strong teamwork, time management skills, and a keen attention to detail. Dedicated to producing high-quality, maintainable code and continuously improving development practices. /></p>
+
+## 
+  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kyrylopikhno&label=Profile%20views&color=0e75b6&style=flat" alt="kyrylopikhno" /></p>
