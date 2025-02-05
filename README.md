@@ -16,7 +16,7 @@
   </a>
 </p> -->
 
-<p align="left">< Full Stack Developer with 2+ years of experience in international teams. Specializing in web and mobile app development with modern technologies. A quick learner with strong teamwork, time management skills, and a keen attention to detail. Dedicated to producing high-quality, maintainable code and continuously improving development practices. /></p>
+<p align="left">< Full Stack Developer with 3 years of experience in international teams. Specializing in web and mobile app development with modern technologies. A quick learner with strong teamwork, time management skills, and a keen attention to detail. Dedicated to producing high-quality, maintainable code and continuously improving development practices. /></p>
 
 ## 
   
