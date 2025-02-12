@@ -16,7 +16,24 @@
   </a>
 </p> -->
 
-<p align="left">< Full Stack Developer with 3 years of experience in international teams. Specializing in web and mobile app development with modern technologies. A quick learner with strong teamwork, time management skills, and a keen attention to detail. Dedicated to producing high-quality, maintainable code and continuously improving development practices. /></p>
+## Full-Stack Developer | 3+ Years Experience | Web & Mobile Development
+
+Experienced Full-Stack Developer with 3+ years in international teams, specializing in web and mobile applications. Passionate about writing clean, maintainable, and scalable code while continuously improving development practices.
+
+✅ **Strong problem-solving & collaboration skills**  
+✅ **Adaptable and quick learner of new technologies**  
+✅ **Focused on performance optimization & best development practices**  
+
+## 🛠 Skills
+
+🖥️ **Languages:** TypeScript, JavaScript, Python.  
+🎨 **Web:** React.js, Redux.js, Next.js, Angular, GSAP, HTML, CSS, Tailwind CSS, etc.  
+📱 **Mobile:** React Native, Capacitor.  
+🛠️ **Backend:** Node.js, Express.js, Nest.js, Serverless, REST API, GraphQL.  
+🗄️ **Databases:** MongoDB, MySQL, PostgreSQL, Supabase.  
+☁️ **DevOps & Cloud:** CD/CI, Docker, AWS, Vercel.  
+🛠️ **Tools:** Jira, IntelliJ, Figma, Sentry, Git, GitHub, Tempo, etc.  
+📏 **Principles:** OOP, SOLID, DRY, KISS.   
 
 ## 
   
