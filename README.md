@@ -6,7 +6,7 @@ Experienced Full-Stack Developer with 4+ years in international teams, specializ
 ✅ **Adaptable and quick learner of new technologies**  
 ✅ **Focused on performance optimization & best development practices**  
 
-<img src="https://github.com/user-attachments/assets/ccc35a32-b3cf-430f-8e80-ad0fae732336" width="250">
+<img src="https://github.com/user-attachments/assets/ccc35a32-b3cf-430f-8e80-ad0fae732336" width="200">
 
 ## 🛠 Skills
 
