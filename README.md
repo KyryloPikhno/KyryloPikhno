@@ -1,6 +1,6 @@
-## Full-Stack Developer | 4+ Years Experience | Web & Mobile Development
+## Full-Stack Developer | Web & Mobile Development
 
-Experienced Full-Stack Developer with 4+ years in international teams, specializing in web and mobile applications. Passionate about writing clean, maintainable, and scalable code while continuously improving development practices.
+Full-Stack Developer with experience working in international teams, specializing in web and mobile applications. Passionate about writing clean, maintainable, and scalable code while continuously improving development practices.
 
 ✅ **Strong problem-solving & collaboration skills**  
 ✅ **Adaptable and quick learner of new technologies**  
