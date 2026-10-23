@@ -6,18 +6,9 @@ Full-Stack Developer with experience working in international teams, specializin
 ✅ **Adaptable and quick learner of new technologies**  
 ✅ **Focused on performance optimization & best development practices**  
 
-<img src="https://github.com/user-attachments/assets/ccc35a32-b3cf-430f-8e80-ad0fae732336" width="200">
+<!-- <img src="https://github.com/user-attachments/assets/ccc35a32-b3cf-430f-8e80-ad0fae732336" width="200"> -->
 
-## 🛠 Skills
 
-🖥️ **Languages:** TypeScript, JavaScript, Python.  
-🎨 **Web:** React.js, Redux.js, Next.js, Angular, GSAP, HTML, CSS, Tailwind CSS, etc.  
-📱 **Mobile:** React Native, React Native Web Components, Capacitor.  
-🛠️ **Backend:** Node.js, Express.js, Nest.js, Serverless, REST API, GraphQL.  
-🗄️ **Databases:** MongoDB, MySQL, PostgreSQL, Supabase.  
-☁️ **DevOps & Cloud:** CD/CI, Docker, AWS, Vercel, etc.  
-🛠️ **Tools:** Jira, IntelliJ, Figma, Sentry, Git, GitHub, Tempo, etc.  
-📏 **Principles:** OOP, SOLID, DRY, KISS.   
 
 ## 
   
